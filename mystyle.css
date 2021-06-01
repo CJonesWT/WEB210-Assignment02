@@ -30,6 +30,7 @@ header p{
     color: rgb(12, 98, 168);
     font-size: 1.4em;
     text-align: justify;
+    max-width: 100%;
 }
 
 p{
@@ -41,6 +42,7 @@ p{
 
 footer{
     text-align: center;
+    max-width: 100%;
 }
 
 ul{
@@ -66,10 +68,12 @@ ul a, href{
 section h2{
     color: #010B5B; 
     font-size: 2em;
+    max-width: 100%;
 }
 
 section h3{
     font-size: 1.4em;
+    max-width: 100%;
 }
 
 #img1{
